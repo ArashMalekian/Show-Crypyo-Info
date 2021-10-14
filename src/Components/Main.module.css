@@ -1,0 +1,21 @@
+.searcher {
+    color: goldenrod;
+    width: 300px;
+    line-height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid goldenrod;
+    background-color:rgb(8, 8, 44);
+    padding: 5px;
+}
+
+.searcher:focus{
+    outline: none;
+
+} 
+
+::placeholder {
+    color:whitesmoke;
+    font-weight: bold;
+    margin-left: 150px;
+}

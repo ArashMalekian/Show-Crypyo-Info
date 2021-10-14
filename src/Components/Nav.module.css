@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin: auto;
+    box-shadow:  0px 50px 50px 10px black;
+    color: goldenrod;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+    align-items: center;
+}
+
+.title {
+    transition: all .3s ease-in;
+    cursor:wait;
+}
+
+.title:hover {
+    text-shadow: 0px 0px 10px whitesmoke;
+}
