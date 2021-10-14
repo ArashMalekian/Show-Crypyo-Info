@@ -6,13 +6,13 @@
     color: goldenrod;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 60px;
+    margin-bottom: 80px;
     align-items: center;
 }
 
 .title {
     transition: all .3s ease-in;
-    cursor:wait;
+    cursor:none;
 }
 
 .title:hover {
