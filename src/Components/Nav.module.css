@@ -1,7 +1,6 @@
 .container {
     text-align: center;
     border-bottom: 2px solid black;
-    margin: auto;
     box-shadow:  0px 50px 50px 10px black;
     color: goldenrod;
     display: flex;
